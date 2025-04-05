@@ -55,9 +55,7 @@ Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à
 
 Auteurs
 
-[Votre Nom] : Développeur principal.
-
-[Collaborateur(s)] : [Spécifiez les rôles de vos collaborateurs ici].
+Amir : Développeur principal.
 
 Licence
 
